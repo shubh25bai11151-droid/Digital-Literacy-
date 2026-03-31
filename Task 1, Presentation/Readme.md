@@ -1,3 +1,4 @@
-![Beige Neutral Flowchart Graph Template](https://github.com/user-attachments/assets/ea89b022-1f40-4eeb-9d51-b66324e1658c)
+![Beige Neutral Flowchart Graph Template (3)](https://github.com/user-attachments/assets/e673887e-8a89-41d1-9c9a-0de1b8f259ad)
+
 
 
