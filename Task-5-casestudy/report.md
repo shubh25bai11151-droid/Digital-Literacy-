@@ -41,7 +41,7 @@ As a Student Digital Ambassador, I have documented my journey through five modul
 ### **Module 5: Cybercrime Case Study**
 * **Task**: Analyzed a "QR Code/UPI Scam" and created an 8-point "Stay Safe Online" checklist.
 * **Learning**: Identified social engineering tactics used in financial fraud and documented reporting procedures (Helpline 1930).
-* **Location**: `task-5-cybercrime/`
+* **Location**: `task-5-casestudy/`
 
 ---
 
