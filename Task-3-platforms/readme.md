@@ -26,7 +26,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeSnroyLM3jh7F44BH2Hpr2zNB4APSmKFtOaMat
 <img width="960" height="411" alt="Screenshot 2026-03-31 192829" src="https://github.com/user-attachments/assets/d85597e4-e97c-4b0a-a4f4-641841723818" />
 
 
-## Project Reflection 
+## 📝 Reflection
 I used platforms like HackerRank to practice coding problems and improve my logical thinking and problem-solving skills. I also created a digital literacy quiz to understand topics like online safety and digital tools.
 
 These activities help me academically by strengthening my programming skills, improving critical thinking, and making my learning more practical and application-based.
