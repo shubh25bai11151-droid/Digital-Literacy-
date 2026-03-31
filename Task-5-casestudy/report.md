@@ -63,4 +63,4 @@ I utilized a diverse tech stack to complete these modules, including:
 - Obsidian: For drafting my initial reflections and organizing my project notes.
 
 ---
-**Repository Link**: [https://github.com/Prathamesh-Patil-A/Digital-Literacy-Project]
+
