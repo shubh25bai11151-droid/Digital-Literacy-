@@ -12,7 +12,7 @@
 ---
 
 ## 📝 Project Overview
-As a Student Digital Ambassador, I have documented my journey through five modules designed to build a professional and safe digital presence. This report summarizes my learning and the technical artifacts created, specifically focusing on how digital literacy intersects with Mechanical Engineering.
+As a Student Digital Ambassador, I have documented my journey through five modules designed to build a professional and safe digital presence. This report summarizes my learning and the technical artifacts created, specifically focusing on how digital literacy intersects with CSE Engineering.
 
 ---
 
@@ -46,7 +46,7 @@ As a Student Digital Ambassador, I have documented my journey through five modul
 ---
 
 ## 💡 Reflection: Challenges, Tools, and Insights
-One of the most significant learning curves in this project involved navigating the technical structure of GitHub; initially, I made the common mistake of creating empty files instead of actual directories for my tasks. Correcting this taught me how version control truly organizes data. Another challenge was ensuring my digital identity accurately reflected my position as a Mechanical Engineering student while showcasing my technical proficiency in Python.
+One of the most significant learning curves in this project involved navigating the technical structure of GitHub; initially, I made the common mistake of creating empty files instead of actual directories for my tasks. Correcting this taught me how version control truly organizes data. Another challenge was ensuring my digital identity accurately reflected my position as a  CSE Engineering student while showcasing my technical proficiency in Python.
 
 The most exciting and interesting part of this journey was working with Canva. As someone in a core engineering branch, learning to translate complex digital safety concepts into a visually compelling infographic was a creative breakthrough. It showed me that technical communication isn't just about data, but also about design and accessibility. Exploring professional platforms like LinkedIn and Kaggle was equally impactful; setting up these accounts forced me to think about my long-term career trajectory and how to document my growth in Propulsion and Rocket Dynamics alongside my coding skills.
 
