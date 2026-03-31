@@ -21,7 +21,7 @@ Welcome to my final project repository for the **Digital Literacy** course at **
 | **[Task 2](./task-2-portfolio)** | Professional Portfolio | GitHub, LinkedIn & Kaggle setup |
 | **[Task 3](./task-3-platforms)** | Collaboration Platforms | HackerRank & Google Workspace quiz |
 | **[Task 4](./task-4-email-etiquette)** | Email Etiquette | Professional drafts & Social Media ethics |
-| **[Task 5](./task-5-cybercrime)** | Cybercrime Case Study | UPI Fraud analysis & Security checklist |
+| **[Task 5](./task-5-casestudy)** | Cybercrime Case Study | UPI Fraud analysis & Security checklist |
 
 ---
 
